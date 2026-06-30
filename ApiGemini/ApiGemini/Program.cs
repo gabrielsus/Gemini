@@ -22,3 +22,4 @@ var responseContent = await response.Content.ReadAsStringAsync();
 
 Console.WriteLine("Status: " + response.StatusCode);
 Console.WriteLine("Respuesta: " + responseContent);
+//luego cambiar el console por rest//
